@@ -5,6 +5,7 @@
 - 🌱 Estudando Spring Boot e Java
 - 👯 Contate-me por e-mail: Jefinho368@gmail.com
 - 😄 Pronouns: ele/dele
+- 😄 Futuro Dev Back-end Java
 
 <div align="center">
   <a href="https://https://github.com/tiowick">
