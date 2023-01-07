@@ -8,7 +8,7 @@
 - 😄 Futuro Dev Back-end Java
 
 <div align="center">
-  <a href="https://https://github.com/tiowick">
+  <a href="https://github.com/tiowick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiowick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiowick&layout=compact&langs_count=7&theme=dracula"/>
 </div>
