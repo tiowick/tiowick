@@ -4,7 +4,6 @@
 - 🔭 Hoje trabalho com Suporte de TI
 - 🌱 Estudando Spring Boot e Java
 - 👯 Contate-me por e-mail: Jefinho368@gmail.com
-- 😄 Pronouns: ele/dele
 - 😄 Futuro Dev Back-end
 
 <div style="display: inline_block"><br>
