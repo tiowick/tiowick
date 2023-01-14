@@ -5,7 +5,7 @@
 - 🌱 Estudando Spring Boot e Java
 - 👯 Contate-me por e-mail: Jefinho368@gmail.com
 - 😄 Pronouns: ele/dele
-- 😄 Futuro Dev Back-end Java
+- 😄 Futuro Dev Back-end
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jef-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
