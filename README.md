@@ -1,7 +1,7 @@
 ## Olá eu sou o Jeferson Sena 👋
 
 
-- 🔭 Hoje trabalho com Desenvolvimento backend .Net ( Freelancer )
+- 🔭 Hoje trabalho com Suporte de TI
 - 👯 Contate-me por e-mail: Jefinho368@gmail.com
 - 😄 Desenvolvedor Back-end
 
