@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como Desenvolvedor Jr
 - 👯 Contate-me por e-mail: Jefinho368@gmail.com
-- 😄 Desenvolvedor Back-end
+- 😄 Desenvolvedor de Software
 
 
 
