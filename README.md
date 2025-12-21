@@ -1,7 +1,7 @@
 ## Olá eu sou o Jeferson Sena 👋
 
 
-- 🔭 Hoje trabalho como Desenvolvedor FullStack .Net
+- 🔭 Hoje trabalho como Software Enginner
 - 👯 Contate-me por e-mail: Jefinho368@gmail.com
 - 😄 Desenvolvedor de Software
 
