@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como Software Enginner
 - 👯 Contate-me por e-mail: Jefinho368@gmail.com
-- 😄 Desenvolvedor de Software
+- 😄 Engenheiro de Software
 
 
 
